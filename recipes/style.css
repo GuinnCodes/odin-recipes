@@ -1,0 +1,25 @@
+.body {
+    background-color: rgba(255, 252, 205, 0.39);
+}
+
+.title {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+p {
+    font-weight: bold;
+}
+
+button {
+    background-color: rgba(255, 225, 187, 0.671);
+    font-weight: bold;
+}
+
